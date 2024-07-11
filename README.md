@@ -1,4 +1,7 @@
 # Custom-Game-Models
+
+NOTE: This OOT/MM repo is depricated. Go to https://github.com/Caverns4/OOT-Models for the up-to-date models.
+
 Custom objects I make for various games.
 Unless otherwise noted in an individual folder, all models posted here and the depicted here are Copyrighted to Ikey Ilex/Caverns4.
 
